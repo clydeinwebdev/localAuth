@@ -12,3 +12,8 @@ MongoDB Steps:
 `>> mongod`
 6. Type in the new command prompt
 `>> mongo`
+
+Usage
+
+1. `npm install`
+1. `node app`
